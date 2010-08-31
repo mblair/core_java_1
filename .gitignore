@@ -1,2 +1,3 @@
 *.swp
+*.class
 book_src/*
