@@ -6,6 +6,7 @@ public class BuildingStrings {
 		builder.append("is ");
 		builder.append("Matthew ");
 		builder.append("Blair!");
+		builder.insert(3, "email address is me@matthewblair.net and my ");
 		String mb = builder.toString();
 		System.out.println(mb);
 	}
